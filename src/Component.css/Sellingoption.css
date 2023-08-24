@@ -1,0 +1,26 @@
+.ud-btn {
+    margin-bottom: 30px;
+    border-radius: 12px;
+    display: inline-block;
+    font-family: var(--title-font-family);
+    font-weight: 600;
+    font-size: 15px;
+    font-style: normal;
+    letter-spacing: 0em;
+    padding: 13px 30px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    z-index: 0;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+.cell{
+    visibility: visible;
+    animation-delay: 300ms;
+    animation-name: fadeInLeft;
+    margin-bottom: 80px;
+}

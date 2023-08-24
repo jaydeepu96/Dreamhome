@@ -1,0 +1,24 @@
+.btn-thm {
+    margin-top: "20px";
+    background-color: #EB6753;
+    border: 1px solid #EB6753;
+    color: #ffffff;
+}
+.ud-btn {
+    border-radius: 12px;
+    display: inline-block;
+   font-weight: 600;
+    font-size: 15px;
+    font-style: normal;
+    letter-spacing: 0em;
+    padding: 13px 30px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    z-index: 0;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
