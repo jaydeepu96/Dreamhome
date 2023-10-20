@@ -19,17 +19,17 @@ function App() {
     
  <div>
 <Header/>
-<Banner1/>
+{/* <Banner1/>
 <Apartment/>
 <Realton/>
 <Featuredlisting/>
 <Properticity/>
 <Sellingoption/>
-<Popularproperti/>
-< PeopleLove/>
-<OurBlog/>
+<Popularproperti/> */}
+{/* < PeopleLove/> */}
+{/* <OurBlog/>
 <Needhelp/>
-<Footer/>
+<Footer/> */}
 {/* <Navig/> */}
  </div>
   );
